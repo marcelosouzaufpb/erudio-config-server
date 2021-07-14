@@ -6,7 +6,7 @@ management:
     web:
       exposure:
         include:
-          - '*'
+        - '*'
 greeting-service:
-  greeting: "Hola"
+  greeting: "Olá"
   default-value: "Mundo"
